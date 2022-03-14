@@ -5,7 +5,10 @@ public class AddNumbers {
         int num3 = 5;
         int result = 0;
 
-        result = num1 + num2;
-        System.out.println("The result is: " + result);
+//        result = num1 + num2;
+//        System.out.println("The result is: " + result);
+
+        result = num2 - num3;
+        System.out.println("The new result is: " + result);
     }
 }
